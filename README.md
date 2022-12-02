@@ -22,5 +22,5 @@ pipenv shell
 使用 pip：
 
 ```
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
