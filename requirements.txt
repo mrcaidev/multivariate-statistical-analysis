@@ -1,4 +1,7 @@
 notebook
 seaborn
-pyecharts
+xlrd
 openpyxl
+pyecharts
+scipy
+sklearn

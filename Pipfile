@@ -6,8 +6,10 @@ name = "aliyun"
 [packages]
 notebook = "*"
 seaborn = "*"
-pyecharts = "*"
+xlrd = "*"
 openpyxl = "*"
+pyecharts = "*"
+scipy = "*"
 sklearn = "*"
 
 [dev-packages]
