@@ -4,4 +4,4 @@ xlrd
 openpyxl
 pyecharts
 scipy
-sklearn
+scikit-learn
