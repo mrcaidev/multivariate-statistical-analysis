@@ -1,7 +1,11 @@
 notebook
-seaborn
+numpy
+matplotlib
+pandas
 xlrd
 openpyxl
+seaborn
 pyecharts
 scipy
 scikit-learn
+factor_analyzer

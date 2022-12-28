@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "691226b4cc4b9e292537d9793f518fcd625eb32acd07b87cc6f3bdeb0b329add"
+            "sha256": "9c2d4ec61a0a3187802ce28a7fdd0a99748cfafcf2e0d8332815cb0b5c8392bd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -677,7 +677,7 @@
                 "sha256:f04f97797df35e442ed09f529ad1235d1f1c0f30878e2fe09a2676b71a8801e0",
                 "sha256:f41e57ad63d336fe50d3a67bb8eaa26c09f6dda6a59f76777a99b8ccd8e26aec"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "aliyun",
             "version": "==3.6.2"
         },
         "matplotlib-inline": {
@@ -790,7 +790,7 @@
                 "sha256:ef85cf1f693c88c1fd229ccd1055570cb41cdf4875873b7728b6301f12cd05bf",
                 "sha256:f1b739841821968798947d3afcefd386fa56da0caf97722a5de53e07c4ccedc7"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "aliyun",
             "version": "==1.24.1"
         },
         "openpyxl": {
@@ -839,7 +839,7 @@
                 "sha256:e9dbacd22555c2d47f262ef96bb4e30880e5956169741400af8b306bbb24a273",
                 "sha256:f6257b314fc14958f8122779e5a1557517b0f8e500cfb2bd53fa1f75a8ad0af2"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "aliyun",
             "version": "==1.5.2"
         },
         "pandocfilters": {
