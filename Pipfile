@@ -11,6 +11,7 @@ openpyxl = "*"
 pyecharts = "*"
 scipy = "*"
 scikit-learn = "*"
+factor-analyzer = "*"
 
 [dev-packages]
 black = "*"
