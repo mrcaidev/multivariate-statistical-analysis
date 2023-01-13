@@ -15,6 +15,7 @@ pyecharts = "*"
 scipy = "*"
 scikit-learn = "*"
 factor-analyzer = "*"
+statsmodels = "*"
 
 [dev-packages]
 black = "*"

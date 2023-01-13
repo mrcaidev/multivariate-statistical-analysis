@@ -8,4 +8,5 @@ seaborn
 pyecharts
 scipy
 scikit-learn
-factor_analyzer
+factor-analyzer
+statsmodels
